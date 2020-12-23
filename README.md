@@ -6,5 +6,5 @@
 
 Enthusiast in technology and web development
 
-- 🚀 Currently mastering: GraphQL, Apollo and Socket.io
+- 🚀 Currently mastering: Next.js
 - 📫 How to reach me: matpandino@gmail.com
