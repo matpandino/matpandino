@@ -6,5 +6,5 @@
 
 Enthusiast in technology and web development
 
-- 🚀 Currently mastering: Next.js, Tailwind CSS, React Native 
+- 🚀 Currently mastering: Nest.js and Elixir
 - 📫 How to reach me: matpandino@gmail.com
