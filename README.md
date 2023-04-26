@@ -1,4 +1,4 @@
-## Mateus Pandino [![Gmail Badge](https://img.shields.io/badge/-matpandino@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mat@pandino.dev)](mailto:mat@pandino.dev)  [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Pandino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matpandino/)](https://www.linkedin.com/in/matpandino/) 
+## Mateus Pandino [![Gmail Badge](https://img.shields.io/badge/-mat@pandino.dev-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mat@pandino.dev)](mailto:mat@pandino.dev)  [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Pandino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matpandino/)](https://www.linkedin.com/in/matpandino/) 
 
 <div>
     <a href="https://github.com/matpandino">
